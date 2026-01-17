@@ -13,18 +13,6 @@
       "id": "17806751"
     },
     {
-      "id": "be87",
-      "cityName": "Hueva",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2026-01-07T06:47:30.000Z",
-      "notes": "",
-      "position": {
-        "lat": 40.44318346060441,
-        "lng": -2.9881372787329123
-      }
-    },
-    {
       "id": "3bde",
       "cityName": "Kells",
       "country": "Ireland",
@@ -46,6 +34,42 @@
       "position": {
         "lat": 27.971772918729503,
         "lng": 34.18953831509886
+      }
+    },
+    {
+      "id": "f8bd",
+      "cityName": "Loughrea",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2026-01-07T07:07:53.000Z",
+      "notes": "",
+      "position": {
+        "lat": 53.23519896430328,
+        "lng": -8.675942158103792
+      }
+    },
+    {
+      "id": "1e9d",
+      "cityName": "Gaza",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2026-01-07T07:08:05.000Z",
+      "notes": "yarab azorha",
+      "position": {
+        "lat": 31.503748283765386,
+        "lng": 34.466085061552825
+      }
+    },
+    {
+      "id": "18b6",
+      "cityName": "Disuq",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-01-06T22:00:00.000Z",
+      "notes": "",
+      "position": {
+        "lat": 31.05448027598895,
+        "lng": 30.767408447352466
       }
     }
   ]
